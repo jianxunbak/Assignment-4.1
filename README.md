@@ -1,4 +1,4 @@
-# Insert Lesson Title
+# Introduction to DevOps
 
 ## Dependencies
 
@@ -9,11 +9,11 @@ Refer to the following markdown file for the respective sections of the class:
 
 ## Lesson Objectives
 
-Learners will understand:
-- Insert the knowledge to be acquired
-
-Learners will be able to:
-- Insert the skillset to be acquired
+By the end of the lesson, learners will be able to:
+- Explain what DevOps is and what problem is it solving.
+- Explain what CI / CD are.
+- Name a few technological tools that are used in the CICD Pipeline.
+- Explain what Semantic Versioning is
 
 
 ## Lesson Plan
@@ -22,16 +22,14 @@ Learners will be able to:
 |--------|-----|-------|
 |- 5mins |Start zoom session|So that students can join early and start class on time|
 |10 mins|Self studies check-in|Prepare 3 questions for students to answer as a form of warm up and engaging students with the lesson topic.|
-|30 mins|Conceptual Knowledge| Instructors brief students on the subject matter conceptually before diving into hands on. This section can be shorter but not longer. Use video clips for explanation if necessary.|
-|20 mins|Code Along| Practical hands on|
+|30 mins|Part 1| Definition of DevOps|
+|20 mins|Part 2| Exposure to Technological Tools|
 ||**1 HR MARK**|
 |5 mins|Break|Break|
-|40 mins|Code Along| Practical hands on|
-|5 mins|Buffer|In case of overrun|
-|5 mins|Break||
+|40 mins|Part 3| Semantic Versioning|
+|10 mins|Break||
 |5 mins|Assignment Briefing|Help students to understand the expectation and direction of the assignment to prevent mis-interpretations.|
 ||**2 HR MARK**|
-|50 mins|Learners self attempt on assignments|
-|10 mins|Instructors assist learners to push changes to remote repository.|
+|60mins|Assignment|Automation on Semantic Versioning|
 ||**END CLASS 3 HR MARK**|
 
