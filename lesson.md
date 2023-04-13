@@ -22,7 +22,7 @@ DevOps involves the organizational culture, practices and the relevant technolog
 
 As a class, put your answers together to define what CI and CD are.
 
-|Term|Meaning|
+|Term|What it does? (Task)|
 |-|-|
 |CI|Input answer|
 |CD|Input answer|
