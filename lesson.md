@@ -20,6 +20,8 @@ We will recap what DevOps is according to the reading material reference [link](
 
 DevOps involves the organizational culture, practices and the relevant technological tools to achieve high application delivery velocity. The core of DevOps is the automation of Continuous Integration and Continuous Deployment.
 
+<img src="./assets/devops.png" width="30%" height="30%"/>
+
 As a class, put your answers together to define what CI and CD are.
 
 |Term|What it does? (Task)|
