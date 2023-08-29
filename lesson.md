@@ -30,12 +30,12 @@ We will recap what DevOps is according to the reading material reference [link](
 7. Foster win-win relationships across the organization. - Everybody is on one team, as neither development nor IT operations can succeed on its own.
 
 ### DevOps phases
-1. Planning - The stage where development and IT operations teams -- along with other stakeholders -- determine the features desired, accompanied by an iteration value and criteria for each project phase.
-2. Code and build - In the coding phase, developers perform their assigned coding work. When they complete their tasks, they check their work into a centralized source code repository which serve as the single source of truth for code. The build phase entails software code retrieval from the centralized repository and compiles the software code into a binary artifact, executes functional tests and publishes the artifact into a shared centralized repository.
-3. Testing - Automation enables developers to achieve continuous testing to test multiple codebases in parallel. An automated testing strategy also ensures there are no flaws in an application's functionality.
-4. Continuous Integration - The heart of the entire DevOps life cycle. It is a software development practice in which the developers require to commit changes to the source code more frequently.
-5. Continuous Deployment - This is the stage where the code is deployed to the production servers. It is also important to ensure that the code is correctly deployed on all the servers.
-6. Continuous Monitoring - This is the stage where vital information about the use of the software is recorded. This information is processed to recognize the proper functionality of the application. The system errors such as low memory, server not reachable, etc are resolved in this phase.
+1. **Planning** - The stage where development and IT operations teams -- along with other stakeholders -- determine the features desired, accompanied by an iteration value and criteria for each project phase.
+2. **Code and build** - In the coding phase, developers perform their assigned coding work. When they complete their tasks, they check their work into a centralized source code repository which serve as the single source of truth for code. The build phase entails software code retrieval from the centralized repository and compiles the software code into a binary artifact, executes functional tests and publishes the artifact into a shared centralized repository.
+3. **Testing** - Automation enables developers to achieve continuous testing to test multiple codebases in parallel. An automated testing strategy also ensures there are no flaws in an application's functionality.
+4. **Continuous Integration** - The heart of the entire DevOps life cycle. It is a software development practice in which the developers require to commit changes to the source code more frequently.
+5. **Continuous Deployment** - This is the stage where the code is deployed to the production servers. It is also important to ensure that the code is correctly deployed on all the servers.
+6. **Continuous Monitoring** - This is the stage where vital information about the use of the software is recorded. This information is processed to recognize the proper functionality of the application. The system errors such as low memory, server not reachable, etc are resolved in this phase.
 
 DevOps involves the organizational culture, practices and the relevant technological tools to achieve high application delivery velocity. The core of DevOps is the automation of Continuous Integration and Continuous Deployment.
 
