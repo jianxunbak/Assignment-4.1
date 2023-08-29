@@ -18,6 +18,8 @@ We will recap what DevOps is according to the reading material reference [link](
 
 > DevOps is the combination of cultural philosophies, practices, and tools that increases an organization’s ability to deliver applications and services at high velocity: evolving and improving products at a faster pace than organizations using traditional software development and infrastructure management processes. This speed enables organizations to better serve their customers and compete more effectively in the market. - https://aws.amazon.com/devops/what-is-devops/
 
+<img src="./assets/devops.png" width="30%" height="50%"/>
+
 ### Principles behind DevOps
 1. Maintain version control on all production artifacts. - Artifacts must be placed in a centralized version control system that is part of the CI/CD pipelines.
 2. Implement CI/CD. - Teams deliver software updates and patches continuously, rather than on a calendar-driven deadline.
@@ -36,8 +38,6 @@ We will recap what DevOps is according to the reading material reference [link](
 6. Continuous Monitoring - This is the stage where vital information about the use of the software is recorded. This information is processed to recognize the proper functionality of the application. The system errors such as low memory, server not reachable, etc are resolved in this phase.
 
 DevOps involves the organizational culture, practices and the relevant technological tools to achieve high application delivery velocity. The core of DevOps is the automation of Continuous Integration and Continuous Deployment.
-
-<img src="./assets/devops.png" width="30%" height="30%"/>
 
 ### Benefits
 
