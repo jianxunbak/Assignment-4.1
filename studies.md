@@ -7,6 +7,8 @@ Technical knowledge is vast. Timebox yourself for 3 hours to work on the followi
 ### Reading
 
 - [What is DevOps by AWS](https://aws.amazon.com/devops/what-is-devops/)
+- [DevOps Lifecycle](https://www.edureka.co/blog/devops-lifecycle)
+- [DevOps Processes](https://www.techtarget.com/searchitoperations/tip/Demystify-the-DevOps-process-step-by-step)
 
 ### Video 
 
