@@ -18,7 +18,7 @@ We will recap what DevOps is according to the reading material reference [link](
 
 > DevOps is the combination of cultural philosophies, practices, and tools that increases an organization’s ability to deliver applications and services at high velocity: evolving and improving products at a faster pace than organizations using traditional software development and infrastructure management processes. This speed enables organizations to better serve their customers and compete more effectively in the market. - https://aws.amazon.com/devops/what-is-devops/
 
-<img src="./assets/devops.png" width="30%" height="50%"/>
+<img src="./assets/devops.png" width="50%" height="50%"/>
 
 ### Principles behind DevOps
 1. Maintain version control on all production artifacts. - Artifacts must be placed in a centralized version control system that is part of the CI/CD pipelines.
