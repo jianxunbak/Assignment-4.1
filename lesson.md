@@ -76,7 +76,7 @@ What kind of culture and mindset would hinder the success of DevOps? Share your 
 
 > This section helps learner to expose to technological tools that may not be used within this module.
 
-DevOps requires the use of multiple technological tools to make automation possible. Each software has it's unique requirements and release strategies. Therefore, DevOps needs to garner the different technological tools to make automation possible.
+DevOps requires the use of multiple technological tools to make automation possible. Each software has its unique requirements and release strategies. Therefore, DevOps needs to garner the different technological tools to make automation possible.
 
 ### Activity - Research
 
