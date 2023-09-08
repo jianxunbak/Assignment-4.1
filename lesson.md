@@ -1,4 +1,4 @@
-## Brief
+![image](https://github.com/su-ntu-ctp/6m-software-4.4-devops-intro/assets/99375248/000fcbaa-2a94-486b-8c34-c54fce46a4ba)## Brief
 
 ### Preparation
 
@@ -77,6 +77,8 @@ What kind of culture and mindset would hinder the success of DevOps? Share your 
 > This section helps learner to expose to technological tools that may not be used within this module.
 
 DevOps requires the use of multiple technological tools to make automation possible. Each software has its unique requirements and release strategies. Therefore, DevOps needs to garner the different technological tools to make automation possible.
+
+<img src="https://shalb.com/wp-content/uploads/2019/11/Devops1-2048x1338.jpeg" width="50%"/>
 
 ### Activity - Research
 
