@@ -4,7 +4,7 @@ This lessons are 100% conceptual learning. Be prepared to lead learners into act
 
 ### Lesson Overview
 
-Before this lesson, learners had hands on experience with containerization. In this lesson, learners will learn about what DevOps is and this learning will follow them throughout the module. After this lesson, all other lessons are very hands on and is lesser on conceptual learning.
+In this lesson, learners will learn about what DevOps is and this learning will follow them throughout the module. After the next two lessons, all other lessons are very hands on and is lesser on conceptual learning.
 
 ---
 
