@@ -1,5 +1,3 @@
-![image](https://github.com/su-ntu-ctp/6m-software-4.4-devops-intro/assets/99375248/000fcbaa-2a94-486b-8c34-c54fce46a4ba)## Brief
-
 ### Preparation
 
 This lessons are 100% conceptual learning. Be prepared to lead learners into activities to continuously engage them for learning.
