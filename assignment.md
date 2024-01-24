@@ -2,15 +2,23 @@
 
 ### Brief
 
-When human intervention is involved in labeling the software version, it became complex and potentially ended up with differing opinions. Therefore, it is good to automate the Semantic Versioning number increment so that there will be no human emotions involve that leads to dispute. 
+Answer the following questions: 
 
-This tool, [@payfit/semantic-release](https://npm.io/package/@payfit/semantic-release) is a SemVer automation tool that determines the version of each releases and able to support the automatic tagging of container image tags. This tool relies on the Angular's Message Format to achieve the automation.
+1. What kind of culture and mindset would foster the success of DevOps? Share your top 3 for each with the class.
 
-Research on what Angular Message Format is and document your findings after the line as you deem fit.
+|What Mindset|Why so?|Example|
+|-|-|-|
+|1. Your answer| Input answer|
+|2. Your answer| Input answer|
+|3. Your answer| Input answer|
 
----
+2. What kind of culture and mindset would hinder the success of DevOps? Share your top 3 for each with the class.
 
-*Document your findings here*
+|What Mindset|Why so?|Example|
+|-|-|-|
+|1. Your answer| Input answer|
+|2. Your answer| Input answer|
+|3. Your answer| Input answer|
 
 ### Submission 
 
