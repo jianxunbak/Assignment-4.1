@@ -39,7 +39,9 @@ DevOps involves the organizational culture, practices and the relevant technolog
 
 ### Benefits
 
-As a class, let's put our answers together to by explaining the benefits of DevOps in our own words:
+In your groups, choose 2 benefits and explain the benefits of DevOps in our own words:
+
+*Note to the instructor: You can assign 2 per group to avoid repetitions*
 
 |# Benefit|Explanation|
 |-|-|
@@ -49,24 +51,6 @@ As a class, let's put our answers together to by explaining the benefits of DevO
 |Scale|Input Answer|
 |Improved Collaboration|Input Answer|
 |Security|Input Answer|
-
-### Culture & Practices
-
-Break into groups to discuss about what kind of culture and mindset would foster the success of DevOps? Share your top 3 with the class.
-
-|What Mindset|Why so?|Example|
-|-|-|-|
-|1. Your answer| Input answer|
-|2. Your answer| Input answer|
-|3. Your answer| Input answer|
-
-What kind of culture and mindset would hinder the success of DevOps? Share your top 3 with the class.
-
-|What Mindset|Why so?|Example|
-|-|-|-|
-|1. Your answer| Input answer|
-|2. Your answer| Input answer|
-|3. Your answer| Input answer|
 
 ---
 
@@ -127,5 +111,17 @@ The current version is `2.1.3`. There is a breaking change that comes with three
 **Scenario 3**
 
 The current version is `2.1.3`. There are six new features. What should be the next version?
+
+---
+
+### Closing Activity: Culture & Practices
+
+Break into groups to discuss about what kind of culture and mindset would foster and hinder the success of DevOps? Share your top 3 for each with the class.
+
+|What Mindset|Why so?|Example|
+|-|-|-|
+|1. Your answer| Input answer|
+|2. Your answer| Input answer|
+|3. Your answer| Input answer|
 
 
