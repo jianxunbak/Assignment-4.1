@@ -73,7 +73,7 @@ For this module, we will be using the following tools:
 
 Break into groups to research on 5 technologies or tools that are being used by DevOps that were not mentioned in the discussion above.
 
-|# Name of Technology or Tool|How is it used?|
+|# Name of Technology or Tool|What part of DevOps is it used and how is it used?|
 |-|-|
 |1. Input answer|Input answer|
 |2. Input answer|Input answer|
