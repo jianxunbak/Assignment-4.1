@@ -10,13 +10,21 @@ In this lesson, learners will learn about what DevOps is and this learning will 
 
 ## Part 1 - What is DevOps?
 
-We will recap what DevOps is according to the reading material reference [link](https://aws.amazon.com/devops/what-is-devops/) by AWS.
+<img src="https://media.licdn.com/dms/image/C4D12AQHoUDz3_hoWTA/article-cover_image-shrink_720_1280/0/1520218223572?e=1723680000&v=beta&t=vl8sMSXAokgvpQuyA62_4OaWJ1Ql6pppB6681oWbOa0">
 
 ### Definition
 
-> DevOps is the combination of cultural philosophies, practices, and tools that increases an organization’s ability to deliver applications and services at high velocity: evolving and improving products at a faster pace than organizations using traditional software development and infrastructure management processes. This speed enables organizations to better serve their customers and compete more effectively in the market. - https://aws.amazon.com/devops/what-is-devops/
+> DevOps is the combination of cultural philosophies, practices, and tools that increases an organization’s ability to deliver applications and services at high velocity: evolving and improving products at a faster pace than organizations using traditional software development and infrastructure management processes. This speed enables organizations to better serve their customers and compete more effectively in the market. 
 
 <img src="./assets/devops.png" width="50%" height="50%"/>
+
+### Is DevOps same as Agile?
+
+DevOps and agile practices are complementary approaches in the software delivery lifecycle. They both bring efficiency and predictability to the lifecycle.
+
+Agile is iterative and focuses on collaboration, rapid software releases and stakeholder feedback. It is a mindset and a cultural philosophy that aims to have everyone work towards continuous improvement and delivering value to customers.
+
+DevOps, on the other hand, is a delivery approach that removes the silos between the development and operations teams by using tools to automate processes.
 
 ### Principles behind DevOps
 1. Maintain version control on all production artifacts. - Artifacts must be placed in a centralized version control system that is part of the CI/CD pipelines.
@@ -39,18 +47,13 @@ DevOps involves the organizational culture, practices and the relevant technolog
 
 ### Benefits
 
-In your groups, choose 2 benefits and explain the benefits of DevOps in our own words:
-
-*Note to the instructor: You can assign 2 per group to avoid repetitions*
-
-|# Benefit|Explanation|
-|-|-|
-|Speed|Input Answer|
-|Rapid Delivery|Input Answer|
-|Reliability|Input Answer|
-|Scale|Input Answer|
-|Improved Collaboration|Input Answer|
-|Security|Input Answer|
+DevOps brings a variety of benefits for a team to be able to deliver 
+- Speed - DevOps enables teams to move with high velocity by automating integration and deployment
+- Rapid Delivery - DevOps can increase the frequency and pace of releases
+- Reliability - Ensure the quality of application updates and infrastructure changes by testing each change to be functional and safe
+- Scale - DevOps can help manage complex or changing systems efficiently and with reduced risk through automation and consistency
+- Improved Collaboration - Development and operations teams collaborate closely, share many responsibilities, and combine their workflows. This reduces inefficiencies and saves time
+- Security - DevOps can retain control and preserve compliance through automated compliance policies and fine-grained controls
 
 ---
 
@@ -63,24 +66,18 @@ DevOps requires the use of multiple technological tools to make automation possi
 <img src="https://shalb.com/wp-content/uploads/2019/11/Devops1-2048x1338.jpeg" width="50%"/>
 
 For this module, we will be using the following tools:
-1. Github - Version Control System
+1. Git and Github - Version Control System
 2. Docker - Containerization
 3. CircleCI - DevOps Pipeline
 4. Snyk - Vulnerability Scan
 5. Heroku - Hosting Platform
 
-### Activity - Research
-
-Break into groups to research on 5 technologies or tools that are being used by DevOps that were not mentioned in the discussion above.
-
-|# Name of Technology or Tool|What part of DevOps is it used and how is it used?|
-|-|-|
-|1. Input answer|Input answer|
-|2. Input answer|Input answer|
-|3. Input answer|Input answer|
-|4. Input answer|Input answer|
-|5. Input answer|Input answer|
-
----
+There are other tools such as Jenkins, Kubernetes, Splunk, and Prometheus as well as hosting platforms such as AWS and Google Cloud Platform. DevOps is an infinite loop of continuous feedback and improvement through these tools.
 
 In summary, DevOps is the combination of **cultural philosophies, practices, and tools** that increases an organization’s ability to deliver applications and services at high velocity: evolving and improving products at a faster pace than organizations using traditional software development and infrastructure management processes.
+
+### Docker installation
+
+For the next lessons, we will be focusing on containerization and CI/CD. As mentioned above, we will using Docker for containerization.
+
+Install Docker Desktop for Windows via this [link](https://docs.docker.com/desktop/install/windows-install/) or for Mac via this [link](https://docs.docker.com/desktop/install/mac-install/)
