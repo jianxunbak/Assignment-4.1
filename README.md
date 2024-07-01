@@ -25,7 +25,8 @@ By the end of the lesson, learners will be able to:
 |50 mins|Part 1| Definition of DevOps|
 ||**1 HR MARK**|
 |5 mins|Break|Break|
-|40 mins|Part 2| Technological Tools|
+|20 mins|Part 2| Technological Tools|
+|20 mins|Part 3| Docker Installation|
 |10 mins|Break||
 |5 mins|Assignment Briefing|Help students to understand the expectation and direction of the assignment to prevent mis-interpretations.|
 ||**2 HR MARK**|
