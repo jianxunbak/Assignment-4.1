@@ -22,14 +22,13 @@ By the end of the lesson, learners will be able to:
 |--------|-----|-------|
 |- 5mins |Start zoom session|So that students can join early and start class on time|
 |10 mins|Self studies check-in|Prepare 3 questions for students to answer as a form of warm up and engaging students with the lesson topic.|
-|30 mins|Part 1| Definition of DevOps|
-|20 mins|Part 2| Exposure to Technological Tools|
+|50 mins|Part 1| Definition of DevOps|
 ||**1 HR MARK**|
 |5 mins|Break|Break|
-|40 mins|Part 3| Semantic Versioning|
+|40 mins|Part 2| Technological Tools|
 |10 mins|Break||
 |5 mins|Assignment Briefing|Help students to understand the expectation and direction of the assignment to prevent mis-interpretations.|
 ||**2 HR MARK**|
-|60mins|Assignment|Automation on Semantic Versioning|
+|60mins|Assignment|DevOps Culture|
 ||**END CLASS 3 HR MARK**|
 
