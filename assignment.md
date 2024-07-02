@@ -4,7 +4,7 @@
 
 Answer the following questions: 
 
-1. What kind of culture and mindset would foster the success of DevOps? Share your top 3 for each with the class.
+1. What kind of culture and mindset would foster the success of DevOps?
 
 |What Mindset|Why so?|Example|
 |-|-|-|
@@ -12,7 +12,7 @@ Answer the following questions:
 |2. Your answer| Input answer|
 |3. Your answer| Input answer|
 
-2. What kind of culture and mindset would hinder the success of DevOps? Share your top 3 for each with the class.
+2. What kind of culture and mindset would hinder the success of DevOps?
 
 |What Mindset|Why so?|Example|
 |-|-|-|
