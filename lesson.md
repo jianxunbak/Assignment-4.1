@@ -10,8 +10,6 @@ In this lesson, learners will learn about what DevOps is and this learning will 
 
 ## Part 1 - What is DevOps?
 
-<img src="https://media.licdn.com/dms/image/C4D12AQHoUDz3_hoWTA/article-cover_image-shrink_720_1280/0/1520218223572?e=1723680000&v=beta&t=vl8sMSXAokgvpQuyA62_4OaWJ1Ql6pppB6681oWbOa0">
-
 ### Definition
 
 > DevOps is the combination of cultural philosophies, practices, and tools that increases an organization’s ability to deliver applications and services at high velocity: evolving and improving products at a faster pace than organizations using traditional software development and infrastructure management processes. This speed enables organizations to better serve their customers and compete more effectively in the market. 
